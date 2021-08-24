@@ -5,6 +5,6 @@
 const maximenendez = {
   pronouns: "he" | "him"
   code:[javascript,HTML,CSS]
-  tools:[React,Node,Styled-Component,Redux,sequelize],
+  tools:[React,Node,Styled-Component,Redux,Sequelize],
  }
 ```
