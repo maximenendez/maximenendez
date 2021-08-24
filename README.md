@@ -1,4 +1,4 @@
-### Hi, I'm Max 👋
+### Hi, I'm Max 👋 🧑‍💻
 ![me](https://user-images.githubusercontent.com/66852989/130552116-d0a9d299-f15a-40e5-b52f-5329b5a5d377.png)
 <!--
 **maximenendez/maximenendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
