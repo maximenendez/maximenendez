@@ -1,15 +1,5 @@
-### Hi, I'm Max 👋 🧑‍💻
-
-
-```js
-const maximenendez = {
-  pronouns: "he" | "him"
-  code:[javascript,HTML,CSS]
-  tools:[React,Node,Styled-Component,Redux,Sequelize],
- }
-```
 <h2 align="center">
-  Hi! I'm Jeremias, FullStack JavaScript developer. from Argentina to 🌎 . Passionate about technology and its influence on people's daily lives.
+  Hi!  I'm Max 👋 🧑‍ FullStack JavaScript developer. from Argentina to 🌎 . Passionate about technology and its influence on people's daily lives.
 </h2>
 &nbsp;&nbsp;
 <div align="center" >
